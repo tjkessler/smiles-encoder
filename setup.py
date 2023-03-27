@@ -22,7 +22,7 @@ VERSION = get_version_info()
 
 
 setuptools.setup(
-    name='smiles_encoder',
+    name='smiles-encoder',
     version=VERSION,
     description=('One-hot encoding for simple molecular-input line-entry '
                  'system (SMILES) strings'),

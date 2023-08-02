@@ -1,2 +1,2 @@
 from .encoder import split_smiles, SmilesEncoder
-from .version import __version__, __release__
+from .version import __version__
